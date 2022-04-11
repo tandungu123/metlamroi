@@ -1,0 +1,113 @@
+{
+    "language": "vi",
+    "keyActive": "100021966030402QJOOFU",
+    "DeveloperMode": true,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "adminOnly": false,
+    "encryptSt": false,
+    "UPTIME": 0,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "luderalrmaciagr2@hotmail.com",
+    "PASSWORD": "huyduc123",
+    "OTPKEY": "",
+    "BOTNAME": "lolibot",
+    "PREFIX": "/loli",
+    "ADMINBOT": [
+        "100021966030402",
+        "100008198137948",
+        "100058296120026"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+    },
+    "version": "1.0.0",
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "cavevip": {
+        "cooldownTime": 1200000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 500
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "lixi": {
+        "cooldownTime": 1200000
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 20
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "shortvd": {
+        "APIKEY": "XSemUp2Zv5"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyB_OlgR5lMdnYRlwXUNk5Th3mcgIHiOA6w"
+    },
+    "subnau": {
+        "APIKEY": ""
+    },
+    "teach": {
+        "APIKEY": ""
+    },
+    "video2": {
+        "YOUTUBE_API": "AIzaSyB_OlgR5lMdnYRlwXUNk5Th3mcgIHiOA6w"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "lamviec": {
+        "cooldownTime": 1200
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyB_OlgR5lMdnYRlwXUNk5Th3mcgIHiOA6w"
+    }
+}

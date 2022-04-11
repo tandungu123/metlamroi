@@ -1,0 +1,61 @@
+{
+    "name": "Disme_Project",
+    "version": "1.0.0",
+    "description": "This is Disme Project remade by D-Jukie from Miraiv2 source code",
+    "main": "main.js",
+    "scripts": {
+        "start": "node index",
+        "login": "node login",
+        "test": "node --trace-warnings --use_strict --async-stack-traces main"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/D-Jukie/Disme-Project.git"
+    },
+    "author": "D-Jukie",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "@miraipr0ject/assets": "",
+        "aes-js": "^3.1.2",
+        "axios": "^0.26.1",
+        "bluebird": "^3.7.2",
+        "caesar-salad": "",
+        "canvas": "^2.9.0",
+        "chalk": "^4.1.2",
+        "cheerio": "^1.0.0-rc.10",
+        "child_process": "",
+        "cors": "^2.8.5",
+        "crypto": "",
+        "eval": "",
+        "express": "^4.17.3",
+        "fast-speedtest-api": "^0.3.2",
+        "fca-disme": "^2.1.4",
+        "fs-extra": "^10.0.1",
+        "gifencoder": "^2.0.1",
+        "helmet": "^5.0.2",
+        "jimp": "",
+        "lyrics-finder": "^21.7.0",
+        "moment": "^2.29.1",
+        "moment-timezone": "",
+        "npmlog": "^6.0.1",
+        "path": "",
+        "prompt-sync": "^4.2.0",
+        "request": "",
+        "requests": "^0.3.0",
+        "semver": "",
+        "sequelize": "^6.17.0",
+        "simple-youtube-api": "",
+        "sqlite3": "",
+        "string-similarity": "",
+        "totp-generator": "^0.0.13",
+        "youtube": "^0.1.0"
+    },
+    "bugs": {
+        "url": "https://github.com/D-Jukie/Disme-Project/issues"
+    },
+    "homepage": "https://github.com/D-Jukie/Disme-Project#readme",
+    "devDependencies": {
+        "node": "^12.22.10"
+    },
+    "keywords": []
+}
